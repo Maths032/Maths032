@@ -1,10 +1,17 @@
-### Hi there 👋
+### Ola pessoal 👋
 
 <!--
 **Maths032/Maths032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Meu nome é Matheus tenho 18 anos e comecei no mundo da programação na metade de 2019, que foi quando comecei a estudar web (HTML, CSS e PHP).
+Desde então venho me apaixonando e me impressionando a cada dia mais por essa area, todos os dias aprendendo algo novo e me aprofundando cada dia mais.
 
-Here are some ideas to get you started:
+Antes de conhecer a programação estava estudando para tirar meu certificado CCNA de redes, então tenho um certo conhecimento sobre essa area tammbém.
 
+Atualmente estou focado na stack que acredito ser a mais poderosa atualmente, NodeJS, ReactJs e ReactNative. deem uma olhada nos meus repositorios e 
+vão ver tudo o que tenho aprendido sobre essa stack com a rocketseat
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
