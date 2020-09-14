@@ -9,7 +9,7 @@ Desde então venho me apaixonando e me impressionando a cada dia mais por essa a
 Antes de conhecer a programação estava estudando para tirar meu certificado CCNA de redes, então tenho um certo conhecimento sobre essa area tammbém.
 
 Atualmente estou focado na stack que acredito ser a mais poderosa atualmente, NodeJS, ReactJs e ReactNative. deem uma olhada nos meus repositorios e 
-vão ver tudo o que tenho aprendido sobre essa stack com a rocketseat
+vão ver tudo o que tenho aprendido sobre essa stack com a @Rocketseat
 
 <!--
 - 🔭 I’m currently working on ...
