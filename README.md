@@ -11,6 +11,9 @@ Antes de conhecer a programação estava estudando para tirar meu certificado CC
 Atualmente estou focado na stack que acredito ser a mais poderosa atualmente, NodeJS, ReactJs e ReactNative. deem uma olhada nos meus repositorios e 
 vão ver tudo o que tenho aprendido sobre essa stack com a @Rocketseat
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
