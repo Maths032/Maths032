@@ -12,7 +12,7 @@ Atualmente estou focado na stack que acredito ser a mais poderosa atualmente, No
 vão ver tudo o que tenho aprendido sobre essa stack com a @Rocketseat
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Maths032)
 
 <!--
 - 🔭 I’m currently working on ...
