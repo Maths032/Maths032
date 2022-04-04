@@ -3,7 +3,7 @@
 <!--
 **Maths032/Maths032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Meu nome é Matheus tenho 18 anos e comecei no mundo da programação na metade de 2019, que foi quando comecei a estudar web (HTML, CSS e PHP).
+Meu nome é Matheus tenho 19 anos e comecei no mundo da programação na metade de 2019, que foi quando comecei a estudar web (HTML, CSS e PHP).
 Desde então venho me apaixonando e me impressionando a cada dia mais por essa area, todos os dias aprendendo algo novo e me aprofundando cada dia mais.
 
 Antes de conhecer a programação estava estudando para tirar meu certificado CCNA de redes, então tenho um certo conhecimento sobre essa area tammbém.
